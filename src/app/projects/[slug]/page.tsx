@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!project) return { title: "Project Not Found" };
 
   return {
-    title: `${project.title} | Rizqi Akbar`,
+    title: `${project.title} | Rizqia Akbar`,
     description: project.description,
     openGraph: {
       title: project.title,
