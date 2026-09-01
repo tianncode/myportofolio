@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="border-t border-white/[0.05]">
       <div className="max-w-7xl mx-auto px-6 py-8 flex flex-col sm:flex-row items-center justify-between gap-4">
         <p className="text-sm text-[#A1A1AA]">
-          &copy; 2026 Rizqi Akbar
+          &copy; 2026 Rizqia Akbar
         </p>
         <div className="flex items-center gap-4 text-sm text-[#A1A1AA]">
           <span>Built with</span>

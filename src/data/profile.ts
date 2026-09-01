@@ -1,5 +1,5 @@
 export const profile = {
-  name: "Rizqi Akbar",
+  name: "Rizqia Akbar",
   role: "Junior Web Developer",
   subtitle:
     "Fresh graduate in Software Engineering, building fast and reliable web applications with Laravel, React, Next.js, and Vue.",

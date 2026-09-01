@@ -41,7 +41,7 @@ export default function Navbar() {
           onClick={() => handleClick("#home")}
           className="text-lg font-semibold text-white tracking-tight"
         >
-          Rizqi Akbar
+          Rizqia Akbar
         </button>
 
         {/* Desktop */}

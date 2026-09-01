@@ -15,11 +15,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Rizqi Akbar | Junior Web Developer",
+  title: "Rizqia Akbar | Junior Web Developer",
   description:
     "Junior Web Developer specializing in Laravel, React, Next.js and Vue. Building modern web applications with clean architecture.",
   keywords: [
-    "Rizqi Akbar",
+    "Rizqia Akbar",
     "Web Developer",
     "Laravel",
     "React",
@@ -27,9 +27,9 @@ export const metadata: Metadata = {
     "Vue",
     "Portfolio",
   ],
-  authors: [{ name: "Rizqi Akbar" }],
+  authors: [{ name: "Rizqia Akbar" }],
   openGraph: {
-    title: "Rizqi Akbar | Junior Web Developer",
+    title: "Rizqia Akbar | Junior Web Developer",
     description:
       "Junior Web Developer specializing in Laravel, React, Next.js and Vue.",
     type: "website",
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Rizqi Akbar | Junior Web Developer",
+    title: "Rizqia Akbar | Junior Web Developer",
     description:
       "Junior Web Developer specializing in Laravel, React, Next.js and Vue.",
   },
